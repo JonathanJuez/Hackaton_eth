@@ -1,7 +1,7 @@
 
 
 # Good Asset Fund
-¡Bienvenido al Good Asset Fund en GitHub!
+¡Bienvenido al Good Asset Fund en GitHub! https://www.goodassetfund.com/hackath/
 
 Descripción
 Good Asset Fund es un fondo de inversión tipo Hedge Fund especializado en el emocionante mundo de la web3. Nuestra misión es brindar a los usuarios sin conocimientos previos de web3 la oportunidad de participar en este mercado de manera accesible y segura. Nos dedicamos a obtener ganancias en cualquier dirección del mercado, ya sea al alza o a la baja, utilizando estrategias innovadoras y adaptativas.
