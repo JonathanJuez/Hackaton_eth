@@ -2,5 +2,5 @@
 pragma solidity ^0.8.20;
 
 contract Hello{
-    string public greet = "Hello world";
+    string public greet = "Hello world2";
 }
